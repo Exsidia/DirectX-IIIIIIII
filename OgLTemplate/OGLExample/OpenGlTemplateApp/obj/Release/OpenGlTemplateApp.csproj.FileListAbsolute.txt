@@ -1,0 +1,9 @@
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\bin\Release\OpenGlTemplateApp.exe.config
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\bin\Release\OpenGlTemplateApp.exe
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\bin\Release\OpenGlTemplateApp.pdb
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\obj\Release\OpenGlTemplateApp.Form1.resources
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\obj\Release\OpenGlTemplateApp.OglControl.resources
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\obj\Release\OpenGlTemplateApp.Properties.Resources.resources
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\obj\Release\OpenGlTemplateApp.csproj.GenerateResource.Cache
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\obj\Release\OpenGlTemplateApp.exe
+C:\Users\Lord\Documents\Visual Studio 2013\Projects\Master\OgLTemplate\OGLExample\OpenGlTemplateApp\obj\Release\OpenGlTemplateApp.pdb
